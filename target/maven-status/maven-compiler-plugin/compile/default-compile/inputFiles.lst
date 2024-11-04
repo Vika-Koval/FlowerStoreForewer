@@ -1,0 +1,10 @@
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/FlowerstoreApplication.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/Flower.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerBucket.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerColor.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerController.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerPack.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerRepository.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerService.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/FlowerType.java
+/home/vika/FlowerStoreContinue/src/main/java/ua/edu/ucu/apps/flowerstore/flowers/Item.java
